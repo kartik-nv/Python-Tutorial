@@ -1,0 +1,43 @@
+Store the Ipsum.txt file in the resources folder and access it from there for the below programs.
+
+1. Write a python program to read through a file and print the contents of the file (line by line) to the terminal all in 	upper case.
+
+2. Use the mbox.txt file for this program. Write a program to prompt for a file name, and then read
+	through the file and look for lines of the form:
+							X-DSPAM-Confidence: 0.8475
+	When you encounter a line that starts with “X-DSPAM-Confidence:” pull apart the line to extract the floating-point 	number on the line. Count these lines and then compute the total of the spam confidence values from these lines. When 	you reach the end of the file, prnt the average spam confidence.
+
+3. Write a Python program to read first n lines of ipsum.txt.
+
+4. Write a Python program to copy the contents of ipsum.txt to another file ipsum-copy.txt.
+
+5. Modify the above program into a new one, to copy only even numbered lines to a new file.
+
+6. Create a database-like txt file of students, which takes input from the user continuously:
+	a) Name
+	b) SEM (integer)
+	c) USN
+	d) Contact Number.
+	Store each record in a single line space-separated, in a student-databse.txt named file.
+	The file should look something like this:
+	<Name> <Sem> <USN> <Contact Number>
+	<Name> <Sem> <USN> <Contact Number>
+	<Name> <Sem> <USN> <Contact Number>
+	<Name> <Sem> <USN> <Contact Number> and so on...
+
+7. Open the above created file to display the data of interest. Ask the user to input either 
+	of the 4 options mentioned in previous question, and display only that data. 
+	For eg: if name was entered, then display all the names stored in the 
+	student-database.txt file.
+
+8. Count the number of times "the" has appeared in ipsum.txt file.
+
+9. ASk the user if he wants to append inputs to files or start from fresh. Open the file in appropriate mode and write to the file whatever user wishes to write.
+
+10. Write a program to check if filname entered by the user exists or not with the help of OS module.
+
+11. Write a python program to print the entire content of a directory entered by the user. The user should enter the entire directory path. Eg: C:/Users/....
+
+12. Write a program to delete a file. Take the name of the file from input and check if the files exists before deleting, but not using try and except.
+
+13. Write a program to delete an entire folder. Take the name of the folder from input and check if the folder exists before deleting, but not using try and except.

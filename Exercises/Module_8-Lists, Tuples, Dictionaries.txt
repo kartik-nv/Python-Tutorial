@@ -1,0 +1,48 @@
+1. 	Using the romeo.txt (file of 4 lines), Write
+	a program to open the file romeo.txt and read it line by line. For each
+	line, split the line into a list of words using the split function. For
+	each word, check to see if the word is already in the list of unique
+	words. If the word is not in the list of unique words, add it to the list.
+	When the program completes, sort and print the list of unique words
+	in alphabetical order.
+
+2. 	Write a program to read through the mail box (mboxShort.txt) data and when you find
+	line that starts with “From”, you will split the line into words using the
+	split function. We are interested in who sent the message, which is the
+	second word on the From line.
+
+3. 	Remove all the occurences of an element in a list.
+
+4. 	Write a python program to check whether two lists are circularly identical.
+
+5. 	Write a Python program to find the second smallest number in a list.
+
+6. 	Write a program that categorizes each mail message by
+	which day of the week the commit was done. To do this look for lines
+	that start with “From”, then look for the third word and keep a running
+	count of each of the days of the week. At the end of the program print
+	out the contents of your dictionary (order does not matter).
+
+7.	Write a program to read through a mail log, build a histogram using a 
+	dictionary to count how many messages have come from each email 
+	address, and print the dictionary.
+
+8. 	Add code to the above program to figure out who has the
+	most messages in the file. After all the data has been read and the dictionary has been
+	created, look through the dictionary using a maximum
+	loop (see Chapter 5: Maximum and minimum loops) to find who has
+	the most messages and print how many messages the person has.
+
+9.	This program records the domain name (instead of the
+	address) where the message was sent from instead of who the mail came
+	from (i.e., the whole email address). At the end of the program, print
+	out the contents of your dictionary.
+	Eg: {'media.berkeley.edu': 4, 'uct.ac.za': 6, 'umich.edu': 7, 'gmail.com': 1, 'caret.cam.ac.uk': 1, 'iupui.edu': 8}
+
+10. 	Write a Python script to generate and print a dictionary that contains a number 
+	(between 1 and n) in the form (x, x*x).
+
+11. 	Write a Python program to get the maximum and minimum values of a dictionary.
+
+12.	create a list of tuples from given list having number and its cube in each tuple.
+

@@ -1,0 +1,35 @@
+1. Write a program that takes 3 inputs from a user that asks:
+	a- Please enter your name: 
+	b- Please enter your company name: 
+	c- Please enter your designation: 
+
+and prints the folowing line as output: 
+	Hey there! My name is <name>. I work for <company name> and I am a <designation>.
+
+2. Write a program that takes 2 inputs and calculates:
+	a) Addition
+	b) Subtraction
+	c) Multiplication and 
+	d) Division.
+
+3. Write a program to take the input from the user for 5 numbers and print the largest of those 5 numbers.
+
+4. In order for a person to buy blood from a blood bank, he/she has to pay a certain amount to the blood bank depending on the blood group. Considering charges according to the below table:
+	1. O -ve -> Rs. 98  per 1000ml.
+	2. O +ve -> Rs. 127 per 1000ml.
+	3. A +ve -> Rs. 82  per 1000ml.
+	4. A -ve -> Rs. 176 per 1000ml.
+	5. B +ve -> Rs. 176 per 1000ml.
+	6. B -ve -> Rs. 241 per 1000ml.
+	7. AB+ve -> Rs. 241 per 1000ml.
+	8. AB-ve -> Rs. 280 per 1000ml.
+
+-> Write a program to ask the user the amount of blood required (in litres), convert it into ml and calculate and print the amount to be paid based on the table above to be paid by the user.
+
+5. Write a program to check if the input number is divisible by 5,25 but not 50.
+
+6. Write a program to create a function that takes two arguments, name and age, and do the following:
+	a) print their value from within the function.
+	b) return the value and then print.
+
+7. Include Exception Handling in all the above programs and do use proper mnemonic variable names. All the programs must handle any kind of exceptions that may arise.

@@ -1,0 +1,19 @@
+1. Write a function that accepts a name and says- 
+"Welcome <username> on our site., and if nothing passed, assign default value to greet with name being "Anonymous".
+
+2. Write a function to check whether a number is odd or even.
+
+3. Write a Python function to find the maximum of three numbers.
+
+4. Write a Python function to check whether a number 
+falls within a given range.
+
+5. Write a Python program to print whether numbers in the list
+ are even or odd. [1, 2, 5, 8, 9, 12, 33, 67, 84]
+	Go through each element manually and the output should be as follows.
+	First element <1> in the list is an odd number.
+	Second element <2> in the list is an even number.
+	Third element <3> in the list is an odd number
+	and so on.
+
+6. Write a program that takes an integer number as input and identifies if it is an armstrong number or not. Eg: 371.

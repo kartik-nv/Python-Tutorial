@@ -1,0 +1,24 @@
+1. Count the total number of digits in a number.
+
+2. Reverse a given integer number
+
+3. Calculate the cube of all numbers from 1 to a given number
+
+4. Find the sum of the series upto n terms. The rule for the above question is: Take 2 inputs, 1 is n and other is
+	the number. Eg: If n=5 and number=2, then 2 + 22 + 222 + 2222 + 22222 = 24690. Hence, 24690 should be the output.
+
+5. Write a Python program that takes input until user enters done. As soon as the user enters done, print the count of thre 	the number of even and odd numbers in the given input.
+
+6. Write a Python program that accepts a sequence of lines (blank line to terminate) as input and prints the lines as output 	(all characters in lower case).
+
+7. Write a Python program to count the occurrences of each word in a given sentence.
+
+8. Write a Python script that takes input from the user and displays that input back in upper and lower cases.
+
+9. Write a Python program to replace a word from the entire string, and print the new, replaced string.
+
+10. Write a Python program that accepts a comma-separated sequence of words as input and prints the distinct words in sorted 	form (alphanumerically). (Hint: Use the split() method.)
+
+11. Write a Python function to reverse a string if its length is a multiple of 4 using string slicing method.
+
+12. Write a Python function to convert a given string to all uppercase if it contains at least 2 uppercase characters in the 	first 4 characters.
